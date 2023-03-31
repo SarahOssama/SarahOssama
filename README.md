@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
-- 🔭 I'm Currently Working on my Graduation Project | NLP & Video Editing 
-- 🌱 I’m currently learning NLP
+- 🔭 Currently Working on my Graduation Project | NLP & Video Editing 
+- 🌱 Currently learning NLP and Computer Vision
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SarahOssama&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
