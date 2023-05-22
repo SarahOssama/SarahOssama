@@ -19,14 +19,6 @@
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sarah-osama-700695199) | [Kaggle](https://www.kaggle.com/sarahosama1) | [Facebook](https://facebook.com/https://www.facebook.com/sarah.osama.1806/) | [Instagram](https://instagram.com/https://instagram.com/sarah_ussama?igshid=YmMyMTA2M2Y=)
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SarahOssama&theme=default&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=SarahOssama&theme=default&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahOssama&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SarahOssama&theme=flat&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SarahOssama&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
