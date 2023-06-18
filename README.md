@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-- 🔭 Currently Working on my Graduation Project | NLP & Video Editing 
+- 🎓 Just Graduated and Finished my Graduation Project [Audima](https://github.com/SarahOssama/GP2023.git)  
 - 🌱 Currently learning NLP and Computer Vision
 
 # 💻 Projects:
