@@ -16,7 +16,7 @@
 - [Zootopia](https://github.com/SarahOssama/Zootopia.git) | Desktop App for Pet Owners
 
 ## 🌐 Socials:
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/sarah-osama-700695199) | [Kaggle](https://www.kaggle.com/sarahosama1) | [Facebook](https://facebook.com/https://www.facebook.com/sarah.osama.1806/) | [Instagram](https://instagram.com/https://instagram.com/sarah_ussama?igshid=YmMyMTA2M2Y=)
+[LinkedIn](https://www.linkedin.com/in/sarah-osama-700695199/) | [Kaggle](https://www.kaggle.com/sarahosama1) | [Facebook](https://facebook.com/https://www.facebook.com/sarah.osama.1806/) | [Instagram](https://instagram.com/https://instagram.com/sarah_ussama?igshid=YmMyMTA2M2Y=)
 
 
 ### 🔝 Top Contributed Repo
