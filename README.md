@@ -2,8 +2,8 @@
 
 # 💫 About Me:
 
+- 🌱 Currently Working as a Junior AI Engineer
 - 🎓 Just Graduated and Finished my Graduation Project [Audima](https://github.com/SarahOssama/GP2023.git)  
-- 🌱 Currently learning NLP and Computer Vision
 
 # 💻 Projects:
 - [Flickr FrontEnd](https://github.com/SarahOssama/Flickr-FrontEnd-SoftwareEngineeringProject.git) | Mimicking Flickr Frontend and TeamLeading 
